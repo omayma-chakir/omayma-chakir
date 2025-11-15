@@ -1,5 +1,5 @@
-```
-$ omaymafetch --color
+```php
+$ pandafetch --color
 ```
 
 ![](./hello.png)
