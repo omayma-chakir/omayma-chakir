@@ -1,4 +1,4 @@
-## Hi there 👋
+![](./panda-ascii-art-banner.png)
 
 <!--
 **omayma-chakir/omayma-chakir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
