@@ -1,1 +1,1 @@
-<img src="banner-v1.png" />
+<img src="banner-v2.png" />
